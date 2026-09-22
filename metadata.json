@@ -1,0 +1,7 @@
+{
+  "name": "Healthcare Analytics & Risk Monitoring Dashboard",
+  "description": "ระบบวิเคราะห์และเฝ้าระวังสุขภาพผู้ป่วย แสดงผลข้อมูลสุขภาพ พฤติกรรมการใช้ชีวิต และการประเมินความเสี่ยงรายบุคคล",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
